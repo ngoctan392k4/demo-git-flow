@@ -1,1 +1,2 @@
 print("TAN")
+print("A")
