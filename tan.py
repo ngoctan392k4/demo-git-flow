@@ -1,2 +1,1 @@
 print("TAN")
-print("NGOC")
