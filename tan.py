@@ -1,0 +1,2 @@
+print("TAN")
+print("A")
