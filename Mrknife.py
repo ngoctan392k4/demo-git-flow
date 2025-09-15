@@ -1,0 +1,1 @@
+print("E tui bay oi mrknife toi roi nay")
